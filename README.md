@@ -1,7 +1,7 @@
 # JDKへようこそ！
 
 ビルド手順については以下の
-[online documentation](https://git.openjdk.org/jdk/blob/master/doc/building.md),
+[online documentation](https://github.com/baramo-yo/jdk-japanese/blob/master/doc/building.md),
 または次のいずれかのファイルをご覧ください:
 
 - [doc/building.html](doc/building.html) (html version)
