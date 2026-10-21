@@ -1,4 +1,4 @@
-# Welcome to the JDK!
+# JDKへようこそ！
 
 ビルド手順については以下の
 [online documentation](https://git.openjdk.org/jdk/blob/master/doc/building.md),
